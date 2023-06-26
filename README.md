@@ -1,0 +1,66 @@
+- src
+  - components
+    - devices
+      - controllers
+        - deviceController.js
+      - models
+        - deviceModel.js
+      - services
+        - deviceService.js
+    - sensors
+      - controllers
+        - sensorController.js
+      - models
+        - sensorModel.js
+      - services
+        - sensorService.js
+    - ...
+  - core
+    - arduino
+      - controllers
+        - arduinoController.js
+      - services
+        - arduinoService.js
+    - database
+      - database.js
+    - mqtt
+      - mqtt.js
+    - logger
+      - logger.js
+    - ...
+  - utils
+    - helpers.js
+    - validators.js
+    - ...
+  - app.js
+- config
+  - env
+    - development.env
+    - production.env
+    - ...
+  - config.js
+- tests
+  - devices
+    - device.test.js
+  - sensors
+    - sensor.test.js
+  - ...
+- arduino
+  - src
+    - main.ino
+  - libraries
+    - ...
+  - platformio.ini
+- docs
+  - architecture.md
+  - api-specification.md
+  - deployment.md
+- public
+  - css
+  - js
+  - ...
+- package.json
+- README.md
+
+
+
