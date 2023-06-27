@@ -1,0 +1,10 @@
+Adafruit_Sensor: Biblioteca para trabajar con sensores de Adafruit.
+DHT: Biblioteca para trabajar con sensores de temperatura y humedad DHT.
+OneWire: Biblioteca para trabajar con dispositivos que utilizan el protocolo OneWire, como sensores DS18B20.
+DallasTemperature: Biblioteca para trabajar con sensores de temperatura Dallas DS18B20.
+Adafruit_BME280: Biblioteca para trabajar con el sensor de temperatura, humedad y presión atmosférica BME280 de Adafruit.
+Wire: Biblioteca para comunicación I2C.
+SPI: Biblioteca para comunicación SPI.
+Adafruit_GFX: Biblioteca para crear gráficos y elementos visuales en pantallas gráficas.
+Adafruit_ILI9341: Biblioteca para controlar pantallas TFT con controlador ILI9341.
+Adafruit_MQTT: Biblioteca para trabajar con el protocolo MQTT en dispositivos IoT.
