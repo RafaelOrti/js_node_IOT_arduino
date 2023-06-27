@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Arduino
+/.pio/
+/.vscode/
+/.platformio/
+
+# IDE
+.vscode/
+
+# Logs
+logs/
+
+# Compiled files
+*.class
+*.o
+*.bin
+*.hex
+*.elf
+
+# Dependency directories
+/components/*/node_modules/
